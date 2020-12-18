@@ -19,6 +19,7 @@ Le Design Pattern Visitor
 
 La seule fonctionnalité à rajouter est le grouper / dégrouper
 
+
 Rendu attendu :
 	Modèle UML mis à jour mettant en évidence les design patterns utilisés
 	Implémentation sous la forme d'un projet NetBeans
