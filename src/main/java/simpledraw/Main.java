@@ -32,8 +32,6 @@ public class Main {
 		MainFrame frame = new MainFrame();
 		frame.validate();
 		frame.setVisible(true);
-		System.out.println(this.getClass().equals(super.getClass()));
-
 	}
 
 	/**Main method*/
